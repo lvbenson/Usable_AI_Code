@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#ignore these files
+Project/emails.csv
+Project/cleaned_enron.csv
+Project/UsableAI_project_selection.pdf 
+Project/processing.pdf
+Project/processing.html
+Project/last_model.h5
+Project/last_model_10classes.h5
